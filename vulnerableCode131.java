@@ -1,0 +1,6 @@
+String actualHash = ...
+
+if(userInput.equals(actualHash)) {
+    ...
+}
+//CWE-203: Information Exposure Through DiscrepancyKey
